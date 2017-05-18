@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/background">
+        <file alias="back">images/background/back.png</file>
+    </qresource>
+    <qresource prefix="/title">
+        <file alias="close">images/Title/close.png</file>
+        <file alias="dclose">images/Title/dclose.png</file>
+        <file alias="min">images/Title/min.png</file>
+        <file alias="dmin">images/Title/dmin.png</file>
+        <file alias="setup">images/Title/setup.png</file>
+        <file alias="dsetup">images/Title/dsetup.png</file>
+        <file alias="login">images/Title/login.png</file>
+        <file alias="dlogin">images/Title/dlogin.png</file>
+        <file alias="logo">images/Title/logo.png</file>
+        <file alias="dlogo">images/Title/dlogo.png</file>
+        <file alias="computer">images/Title/computer.png</file>
+        <file alias="application">images/Title/application.png</file>
+        <file alias="configure">images/Title/configure.png</file>
+        <file alias="user">images/Title/user.png</file>
+        <file alias="setting">images/Title/setting.png</file>
+        <file alias="about">images/Title/about.png</file>
+        <file alias="blogo">images/Title/blogo.png</file>
+        <file alias="backtb">images/Title/backtb.png</file>
+        <file alias="test">images/Title/test.png</file>
+        <file alias="delete">images/Title/delete.png</file>
+    </qresource>
+    <qresource prefix="/computer">
+        <file alias="ball">images/Computer/ball.png</file>
+        <file alias="maincom">images/Computer/maincom.png</file>
+        <file alias="exportone">images/Computer/onekeyexport.png</file>
+        <file alias="dexportone">images/Computer/donekeyexport.png</file>
+        <file alias="ddexportone">images/Computer/ddonekeyexport.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="file">images/Icon/file.png</file>
+        <file alias="dfile">images/Icon/dfile.png</file>
+        <file alias="arrow">images/Icon/arrow.png</file>
+        <file alias="info">images/Icon/info.png</file>
+        <file alias="warn">images/Icon/warning.png</file>
+        <file alias="critial">images/Icon/critial.png</file>
+    </qresource>
+    <qresource prefix="/userwin">
+        <file alias="userdoc">images/UserWin/userdoc.png</file>
+        <file alias="usermusic">images/UserWin/usermusic.png</file>
+        <file alias="userpic">images/UserWin/userpic.png</file>
+        <file alias="uservideo">images/UserWin/uservideo.png</file>
+        <file alias="duserdoc">images/UserWin/duserdoc.png</file>
+        <file alias="dusermusic">images/UserWin/dusermusic.png</file>
+        <file alias="duserpic">images/UserWin/duserpic.png</file>
+        <file alias="duservideo">images/UserWin/duservideo.png</file>
+        <file alias="email">images/UserWin/email.png</file>
+        <file alias="demail">images/UserWin/demail.png</file>
+        <file alias="browser">images/UserWin/browser.png</file>
+        <file alias="dbrowser">images/UserWin/dbrowser.png</file>
+        <file alias="startexport">images/UserWin/startexport.png</file>
+        <file alias="dstartexport">images/UserWin/dstartexport.png</file>
+        <file alias="nosel">images/UserWin/nosel.png</file>
+        <file alias="ddstartexport">images/UserWin/ddstartexport.png</file>
+    </qresource>
+    <qresource prefix="/appwin">
+        <file alias="ie">images/AppWin/ie.png</file>
+        <file alias="foxmail">images/AppWin/foxmail.png</file>
+        <file alias="chrome">images/AppWin/chrome.png</file>
+        <file alias="firefox">images/AppWin/firefox.png</file>
+        <file alias="outlook">images/AppWin/outlook.png</file>
+        <file alias="outlookadd">images/AppWin/outlookadd.png</file>
+        <file alias="doutlookadd">images/AppWin/doutlookadd.png</file>
+        <file alias="foxmailstart">images/AppWin/foxmailadd.png</file>
+        <file alias="dfoxmailstart">images/AppWin/dfoxmailadd.png</file>
+        <file alias="account">images/AppWin/account.png</file>
+        <file alias="email">images/AppWin/email.png</file>
+    </qresource>
+    <qresource prefix="/syswin">
+        <file alias="sysnetwork">images/SysWin/sysnetwork.png</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file alias="chinese">language/qt_zh_CN.qm</file>
+    </qresource>
+    <qresource prefix="/Message">
+        <file alias="error">images/Message/error.png</file>
+        <file alias="question">images/Message/question.png</file>
+        <file alias="warning">images/Message/warning.png</file>
+        <file alias="yes">images/Message/yes.png</file>
+    </qresource>
+</RCC>
